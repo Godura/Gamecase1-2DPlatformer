@@ -12,6 +12,8 @@
   
 - Stage Layout: Simple draft of a stage for testing mechanics.
   
-# Requirements: Unity version 6000.0.24f1 or higher.
+# Requirements:
+Unity version 6000.0.24f1 or higher.
 
-# Setup Instructions: Extract the files into your Unity projects folder, then open the project through Unity’s “Open Project” menu.
+# Setup Instructions:
+Extract the files into your Unity projects folder, then open the project through Unity’s “Open Project” menu.
