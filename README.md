@@ -16,4 +16,4 @@
 Unity version 6000.0.24f1 or higher.
 
 # Setup Instructions:
-Extract the files into your Unity projects folder, then open the project through Unity’s “Open Project” menu.
+Extract the files into your Unity projects folder, then open the project through UnityHub’s “Projects” menu.
